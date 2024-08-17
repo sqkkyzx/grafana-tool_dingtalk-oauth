@@ -1,0 +1,4 @@
+PyJWT
+httpx
+fastapi
+uvicorn
